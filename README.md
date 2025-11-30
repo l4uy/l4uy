@@ -1,4 +1,4 @@
-## No Idea What I'm Doing 🤞
+## Zero idea on what i'm Doing 🤞
 
 ### Current Project
 
