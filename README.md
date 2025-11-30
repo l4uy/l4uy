@@ -1,8 +1,6 @@
-## Zero idea on what i'm Doing 🤞
+## Zero idea on what i'm doing 🤞
 
-### Current Project
-
-**[Waves!](https://github.com/l4uy/waves/tree/prod)**  
+More info at https://luy.lat/
 
 <p align="left">
   <img src="./cat.jpg" alt="cool cat">
